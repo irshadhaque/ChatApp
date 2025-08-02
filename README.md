@@ -1,5 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 This is a full stack realtime chat application built with Node.js, Express, MongoDB, and Socket.IO. It allows users to create accounts, join chat rooms, and send messages in real time.
+
+![Screenshot](frontend/public/Screenshot-readme.png)
 ### Setup .env file
 
 ```js
